@@ -1,0 +1,58 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Qué partícula indica el plural en el kichwa?",
+            "options": [
+                {"option": "mi", "value": false},
+                {"option": "ta", "value": false},
+                {"option": "kuna", "value": true}
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Comer",
+            "options": [
+                {"option": "takina", "value": false},
+                {"option": "pukllana", "value": false},
+                {"option": "mikuna", "value": true}           
+            ]       
+        },
+        {
+            "id": 3,
+            "question": "Jugar",
+            "options": [
+                {"option": "purina", "value": false},
+                {"option": "tarpuna", "value": false},
+                {"option": "pukllana", "value": true}           
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Mano",
+            "options": [
+                {"option": "yaku", "value": false},
+                {"option": "wasi", "value": false},
+                {"option": "maki", "value": true}           
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Casa",
+            "options": [
+                {"option": "pani", "value": false},
+                {"option": "akcha", "value": false},
+                {"option": "wasi", "value": true}           
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Jugar",
+            "options": [
+                {"option": "yachana", "value": false},
+                {"option": "hatun", "value": false},
+                {"option": "pukllana", "value": true}           
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "Kichwa 1",
+        "component": "Kichwa1",
+        "description": "Este quiz es una demo de como funciona la herramienta."
+    },
+    {
+        "id": "2",
+        "title": "Kichwa 2",
+        "component": "Kichwa2",
+        "description": "description"
+    },
+    {
+        "id": "3",
+        "title": "Kichwa 3",
+        "component": "Kichwa3",
+        "description": "description"
+    },
+    {
+        "id": "4",
+        "title": "Kichwa Verbs",
+        "component": "KichwaVerbs",
+        "description": "description"
+    },
+    {
+        "id": "5",
+        "title": "Kichwa Nouns",
+        "component": "KichwaNouns",
+        "description": "description"
+    }
+]

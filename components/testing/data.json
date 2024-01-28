@@ -1,0 +1,33 @@
+[
+    {
+        "id": "1",
+        "title": "Kichwa 1",
+        "component": "Kichwa1",
+        "description": "Este quiz incluye abecedario, números, partes del cuerpo, pronombres personales, colores y partes del cuerpo"
+    },
+    {
+        "id": "2",
+        "title": "Kichwa 2",
+        "component": "Kichwa2",
+        "description": "description 2"
+    },
+    {
+        "id": "3",
+        "title": "Kichwa 3",
+        "component": "Kichwa3",
+        "description": "description 3"
+    },
+    {
+        "id": "4",
+        "title": "Kichwa Verbs",
+        "component": "KichwaVerbs",
+        "description": "description 4"
+    },
+    {
+        "id": "5",
+        "title": "Kichwa Nouns",
+        "component": "KichwaNouns",
+        "description": "description 4"
+    }
+]
+

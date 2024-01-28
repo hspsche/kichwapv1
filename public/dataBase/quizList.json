@@ -1,0 +1,28 @@
+{
+    "quizList": [
+        {
+            "title": "Kichwa Básico",
+            "description": "Cuestionario de kichwa nivel básico, incluye temas como: números, alfabeto, partes del cuerpo, dias de la semana, etc.",
+            "dbSrc": "../../dataBase/questions.json",
+            "id": "1"
+        },
+        {
+            "title": "Kichwa Básico",
+            "description": "Cuestionario de kichwa nivel básico, incluye temas como: números, alfabeto, partes del cuerpo, dias de la semana, etc.",
+            "dbSrc": "../../dataBase/basicKichwa.json",
+            "id": "2"
+        },
+        {
+            "title": "Kichwa Básico",
+            "description": "Cuestionario de kichwa nivel básico, incluye temas como: números, alfabeto, partes del cuerpo, dias de la semana, etc.",
+            "dbSrc": "../../dataBase/basicKichwa.json",
+            "id": "3"
+        },
+        {
+            "title": "Kichwa Básico",
+            "description": "Cuestionario de kichwa nivel básico, incluye temas como: números, alfabeto, partes del cuerpo, dias de la semana, etc.",
+            "dbSrc": "../../dataBase/basicKichwa.json",
+            "id": "4"
+        }
+    ]
+}

@@ -45,11 +45,11 @@
         "answer": "2"
     },
     {
-        "question": "Caminar",
+        "question": "Jugar",
         "options": [
             {"option": "yachana", "value": false},
             {"option": "hatun", "value": false},
-            {"option": "purina", "value": true}           
+            {"option": "pukllana", "value": true}           
         ],
         "answer": "2"
     }

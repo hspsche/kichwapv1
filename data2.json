@@ -1,0 +1,49 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Question 1",
+            "options": [
+                {"option": "option1"},
+                {"option": "option2"},
+                {"option": "option3"}
+            ],
+            "title": "Post 1",
+            "content": "This is the full content of post 1",
+            "area": "area 1"
+        },
+        {
+            "id": 2,
+            "question": "Question 2",
+            "options": [
+                {"option": "option1"},
+                {"option": "option2"},
+                {"option": "option3"}
+            ],
+            "title": "Post 2",
+            "content": "This is the full content of post 2"
+        },
+        {
+            "id": 3,
+            "question": "Question 3",
+            "title": "Post 3",
+            "content": "This is the full content of post 3",
+            "options": [
+                {"option": "option1"},
+                {"option": "option2"},
+                {"option": "option3"}
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Question 4",
+            "options": [
+                {"option": "option1"},
+                {"option": "option2"},
+                {"option": "option3"}
+            ],
+            "title": "Post 4",
+            "content": "This is the full content of post 4"
+        }
+    ]
+}

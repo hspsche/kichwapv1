@@ -1,0 +1,12 @@
+[
+    {
+      "question": "¿Cuál es la capital de México?",
+      "options": ["Guadalajara", "Ciudad de México"],
+      "answer": "Ciudad de México"
+    },
+    {
+      "question": "¿Cuál es la moneda de Brasil?",
+      "options": ["Peso mexicano", "Real"],
+      "answer": "Real"
+    }
+  ]  

@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Napaykuna",
+        "kichwa": "napaykuna",
+        "castellano": "saludos",
+        "ingles": "greatings",
+        "imgSrc": "",
+        "options": []
+    },
+    {
+        "title": "Imanalla",
+        "kichwa": "imanalla Hernán",
+        "castellano": "hola Hernán",
+        "ingles": "hello Hernán",
+        "imgSrc": "",
+        "options": []
+    },
+    {
+        "title": "Elige la opción correcta",
+        "question": "¿Cómo se dice 'hola'?",
+        "kichwa": "imanalla",
+        "castellano": "hola",
+        "ingles": "hello",
+        "imgSrc": "",
+        "options": [
+            {
+                "option1": "alli puncha"
+            },
+            {
+                "option2": "imanalla"
+            }
+        ]
+    },
+    {
+        "title": "Napaykuna",
+        "kichwa": "Imanalla Hernán",
+        "castellano": "Hola Hernán",
+        "ingles": "Hello Hernán",
+        "imgSrc": "",
+        "options": []
+    },
+    {
+        "title": "Napaykuna",
+        "kichwa": "Ñukaka Hernán mi kani",
+        "castellano": "Mi nombre es Hernán",
+        "ingles": "My name is Hernán",
+        "imgSrc": "",
+        "options": []
+    },
+    {
+        "title": "Napaykuna",
+        "kichwa": "Imanalla",
+        "castellano": "Saludos",
+        "ingles": "greatings",
+        "imgSrc": "",
+        "options": []
+    }
+]
